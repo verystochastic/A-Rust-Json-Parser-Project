@@ -1,0 +1,1 @@
+/home/verystochastic/Development/json_parser/target/debug/libquadrivium.rlib: /home/verystochastic/Development/json_parser/src/core/json/mod.rs /home/verystochastic/Development/json_parser/src/core/json/parser.rs /home/verystochastic/Development/json_parser/src/core/mod.rs /home/verystochastic/Development/json_parser/src/lib.rs
