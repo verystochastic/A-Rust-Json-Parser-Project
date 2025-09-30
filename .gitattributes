@@ -1,0 +1,6 @@
+# Exclude lock files and build artifacts from language detection
+Cargo.lock linguist-generated=true
+target/ linguist-generated=true
+
+# Ensure Rust files are properly detected
+*.rs linguist-language=Rust
